@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ef48aec.css",
-    "main.js": "/static/js/main.55eab2f1.js",
-    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
-    "static/media/landingimg.png": "/static/media/landingimg.386aed19dcce24c32537.png",
-    "static/media/project3.png": "/static/media/project3.b701c3531e07a8affd6b.png",
-    "static/media/project1.png": "/static/media/project1.46a52dbf4e2de1593184.png",
-    "static/media/project2.png": "/static/media/project2.e2ca5bdb125b172a78ce.png",
-    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
-    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
-    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "index.html": "/index.html",
-    "static/media/logo.svg": "/static/media/logo.fa8eb1138e42a565172b97320e60f15c.svg",
-    "main.3ef48aec.css.map": "/static/css/main.3ef48aec.css.map",
-    "main.55eab2f1.js.map": "/static/js/main.55eab2f1.js.map",
-    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/portefolio/static/css/main.b24f4cf3.css",
+    "main.js": "/portefolio/static/js/main.7cf20004.js",
+    "static/js/787.cda612ba.chunk.js": "/portefolio/static/js/787.cda612ba.chunk.js",
+    "static/media/landingimg.png": "/portefolio/static/media/landingimg.386aed19dcce24c32537.png",
+    "static/media/project3.png": "/portefolio/static/media/project3.b701c3531e07a8affd6b.png",
+    "static/media/project1.png": "/portefolio/static/media/project1.46a52dbf4e2de1593184.png",
+    "static/media/project2.png": "/portefolio/static/media/project2.e2ca5bdb125b172a78ce.png",
+    "static/media/CentraNo2-Bold.ttf": "/portefolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/portefolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/portefolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "index.html": "/portefolio/index.html",
+    "static/media/logo.svg": "/portefolio/static/media/logo.fa8eb1138e42a565172b97320e60f15c.svg",
+    "main.b24f4cf3.css.map": "/portefolio/static/css/main.b24f4cf3.css.map",
+    "main.7cf20004.js.map": "/portefolio/static/js/main.7cf20004.js.map",
+    "787.cda612ba.chunk.js.map": "/portefolio/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ef48aec.css",
-    "static/js/main.55eab2f1.js"
+    "static/css/main.b24f4cf3.css",
+    "static/js/main.7cf20004.js"
   ]
 }
